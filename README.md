@@ -1,6 +1,6 @@
-# react-native-animated-scroll-searchbar
+# react-native-animatedscroll-searchbar
 
-React Native Animated Scroll SearchBar.
+React Native AnimatedScroll SearchBar.
 
 Inspired by Telegram App.
 
